@@ -1,0 +1,6 @@
+openai
+pandas
+faker
+requests
+python-dotenv
+sqlite3-binary
